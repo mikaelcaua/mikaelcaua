@@ -1,31 +1,35 @@
 
 
 
-<h1 >🎉WELCOME🎉</h1>
-I'm just a guy that love technology
+<h1 align="center">🎉WELCOME🎉</h1>
+
+<p align="center">I'm just a guy that love technology</p>
+<br> </br>
 
 
 
 
-<h1>📖INTERESTS📖</h1>
+<h1 align="center">📖INTERESTS📖</h1>
 
-• Optimization algorithms
+<p align="center">Optimization algorithms</p>
 
-• Teach programming and math
+<p align="center">Teach programming and math</p>
 
-• Web development
-
-
-
-
-<h1>🧠LEARNING🧠</h1>
-• JS and C
+<p align="center">Web development</p>
+<br> </br>
 
 
 
 
-<h1>💬DO YOU WANNA TALK WITH ME?💬</h1>
-• E-mail: mikaelcauasilva1profissional@gmail.com
+<h1 align="center">🧠LEARNING🧠</h1>
+<p align="center">JS and C</p>
+<br> </br>
 
-• Instagram: @mik4ellll
 
+
+
+<h1 align="center">💬DO YOU WANNA TALK WITH ME?💬</h1>
+<p align="center">E-mail: mikaelcauasilva1profissional@gmail.com</p>
+
+<p align="center">Instagram: @mik4ellll</p>
+<br> </br>
