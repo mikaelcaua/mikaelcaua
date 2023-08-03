@@ -1,9 +1,7 @@
-👋 Hi, I’m @mikaelcaua
+• Interested in optimization algorithms, teach programming and math and web development
 
-👀 I’m interested in optimization algorithms, teach programming and math and web development
+• Currently learning HTML,CSS, JS and C
 
-📚 I’m currently learning web development
-
-📫 You can talk with me on instagram: @mik4ellll
+• Contact: mikaelcauasilva1profissional@gmail.com
 
 
