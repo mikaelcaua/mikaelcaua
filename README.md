@@ -28,8 +28,8 @@
 
 
 
-<h1 align="center">💬DO YOU WANNA TALK WITH ME?💬</h1>
+<h1 align="center">💬CONTACT💬</h1>
 <p align="center">E-mail: mikaelcauasilva1profissional@gmail.com</p>
 
-<p align="center">Instagram: @mik4ellll</p>
+<p align="center"><a href="https://www.instagram.com/mik4ellll/" target="_blank"> instagram </a></p>
 <br> </br>
