@@ -1,7 +1,22 @@
-• Interested in optimization algorithms, teach programming and math and web development
+<h1>🎉WELCOME🎉</h1>
+I'm just a guy that love technology
 
-• Currently learning HTML,CSS, JS and C
+<h1>INTERESTS</h1>
 
-• Contact: mikaelcauasilva1profissional@gmail.com
+• Optimization algorithms
+
+• Teach programming and math
+
+• Web development
+
+
+<h1>LEARNING</h1>
+• JS and C
+
+
+<h1>DO YOU WANNA TALK WITH ME?</h1>
+• e-mail: mikaelcauasilva1profissional@gmail.com
+
+• instagram: @mik4ellll
 
 
