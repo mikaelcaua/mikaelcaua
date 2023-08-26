@@ -22,7 +22,7 @@
 
 
 <h1 align="center">🧠LEARNING🧠</h1>
-<p align="center"><strong>JS and C</strong></p>
+<p align="center"><strong>C and JAVA</strong></p>
 <br> </br>
 
 
