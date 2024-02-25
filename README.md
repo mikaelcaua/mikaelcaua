@@ -1,7 +1,5 @@
 
-<a href="https://github.com/mikaelcaua/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikaelcaua" />
-</a>
+
 <a href="https://github.com/mikaelcaua/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaelcaua&layout=compact&langs_count=8&card_width=280" />
 </a>
