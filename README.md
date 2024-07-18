@@ -1,11 +1,16 @@
 
+# Hello 👋, I'm Mikael Cauã👨‍💻
+- ### Web Development
+- ### Teaching Programming and Mathematics
+- ### Competitive Programming
 
-<span>
-  <img height=200 width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaelcaua&layout=compact&langs_count=8&card_width=280" />
-</span>
+# My activies
+  <a href="https://github.com/RuanSampaio-code">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanSampaio-code&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSampaio-code&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
-##
-
+# My development stack
 <div align:center style="display: inline_block><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
