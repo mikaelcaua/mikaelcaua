@@ -1,6 +1,6 @@
 
 # Hello 👋, I'm Mikael Cauã👨‍💻
-- ### Web Development
+- ### Software Development
 - ### Teaching Programming and Mathematics
 - ### Competitive Programming
 
