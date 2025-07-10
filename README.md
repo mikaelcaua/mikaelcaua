@@ -22,8 +22,6 @@ const mikael = {
     },
     
 };
-
-mikael.sayHi();
 ```
 
 ## 💻 Tech Stack
